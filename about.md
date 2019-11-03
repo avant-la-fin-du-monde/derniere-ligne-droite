@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dernière ligne droite avant la fin du monde
+title: À propos
 permalink: /about/
 ---
 
