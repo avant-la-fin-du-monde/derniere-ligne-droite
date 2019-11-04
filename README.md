@@ -26,4 +26,4 @@ bundle install
 bundle exec jekyll serve
 ```
 
-Then open [http://localhost:4000/](http://localhost:4000/).
+Then open [http://localhost:4000/derniere-ligne-droite/](http://localhost:4000/derniere-ligne-droite/).
