@@ -11,8 +11,10 @@ Sommaire :
 
 ## Le réchauffement et les perturbations climatiques
 
+[L'acidification des océans](acidification)
+
 [Le pergélisol](pergelisol)
 
 ## Agriculture et rendements agricoles
 
-[Le phosphore](phosphore)
+[La production de phosphore](phosphore)

@@ -1,3 +1,9 @@
+---
+layout: page
+title: La production de phosphore
+permalink: /phosphore/
+---
+
 Avec le potassium et l'azote, le phosphore est au coeur du métabolisme de la plante. Il permet à ses racines de puiser dans le sol les éléments nutritifs dont elle a besoin, accélère sa croissance, permet le bourgeonnement et la floraison et surtout, la photosynthèse. C'est donc un élément capital pour l'agriculture, qui enrichit les sols en phosphore grâce aux engrais et fertilisants.
 
 L'industrie offre une large gamme d'engrais phosphatés aux agriculteurs, produits à partir des roches phosphatées, dont quatre pays détiennent les plus importantes réserves (Maroc, Chine, Russie et États-Unis). Car en effet il ne s'agit pas de ressources naturelles mais bien de réserves, qui se sont constituées au cours d'époques géologiques différentes.
@@ -25,9 +31,16 @@ Il peut donc y avoir deux effets "heureux" de la baisse de la production du phos
 
 Toutefois ces bénéfices semblent maigres au regard des risques de déstabilisation locale, régionale ou mondiale liées à la baisse des rendements agricoles. Le problème fait consensus et des recherches et expérimentations sont en cours pour recycler les boues d'épuration[^boues] et les déjections animales, et les valoriser en tant que source de phosphore.
 
+---
+
 [^fao]: [Réserve et production de phosphore](http://www.fao.org/3/y5053f/y5053f06.htm)
+
 [^hubbert]: [Pic de Hubbert](https://fr.wikipedia.org/wiki/Pic_de_Hubbert)
+
 [^cordell]: [The story of phosphorus: Global food security and food for thought](https://www.sciencedirect.com/science/article/abs/pii/S095937800800099X)
+
 [^planetoscope]: [Statistiques de production des matières premières](https://www.planetoscope.com/developpement-durable/matieres-premieres)
+
 [^ncbi]: [High dietary phosphorus intake is associated with all-cause mortality: results from NHANES III.](https://www.ncbi.nlm.nih.gov/pubmed/24225358)
+
 [^boues]: [Boue d'épuration : recyclage du phosphore](https://be.grundfos.com/fr/about-us/news-and-press/news/new-hope-for-recycling-phosphorus-from-wastewater-sludge.html)

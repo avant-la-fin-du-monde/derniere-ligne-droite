@@ -34,9 +34,16 @@ La fonte du pergélisol accélère. Les estimations optimistes prévoient que 30
 
 En Arctique, le sol s'est réchauffé au point de libérer plus de CO2 que la végétation ne peut en absorber en été. Les émissions sont donc désormais positives, d'après une étude d'une équipe de recherche internationale[^emissions-nettes].
 
-[^wikipedia]: [Pergélisol](https://fr.wikipedia.org/wiki/Perg%C3%A9lisol)
+---
+
+[^wikipedia]: [Wikipédia : pergélisol](https://fr.wikipedia.org/wiki/Perg%C3%A9lisol)
+
 [^piege-climatique]: [Le journal du CNRS - pergélisol, le piège climatique](https://lejournal.cnrs.fr/articles/pergelisol-le-piege-climatique)
+
 [^boite-pandore]: [France Culture - CO2 et virus oubliés](https://www.franceculture.fr/ecologie-et-environnement/co2-et-virus-oublies-le-permafrost-est-une-boite-de-pandore)
+
 [^n2o]: [Permafrost nitrous oxide emissions observed on a landscape scale using the airborne eddy-covariance method](https://www.atmos-chem-phys.net/19/4257/2019/)
+
 [^ncar]: [GEO - Le permafrost, qu'est-ce que c'est?](https://www.geo.fr/environnement/permafrost-gaz-methane-rechauffement-climatique-53512)
+
 [^emissions-nettes]: [Large loss of CO 2 in winter observed across the northern permafrost region](https://www.nature.com/articles/s41558-019-0592-8.epdf)
