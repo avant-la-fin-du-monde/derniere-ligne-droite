@@ -23,7 +23,7 @@ Sommaire :
 
 [Le pergélisol](pergelisol)
 
-[L'Antarctique et la montée du niveau de la mer](antarctique-niveau-mer)
+[La montée du niveau de la mer](niveau-mer)
 
 ## Agriculture et rendements agricoles
 

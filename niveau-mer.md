@@ -1,7 +1,7 @@
 ---
 layout: page
-title: L'Antarctique et la montée du niveau de la mer
-permalink: /antarctique-niveau-mer/
+title: La montée du niveau de la mer
+permalink: /niveau-mer/
 ---
 
 D'après le dernier rapport spécial du GIEC[^giec], le rythme actuel de montée des eaux est de 3,6 mm par an. Le niveau de la mer a augmenté d'environ 15 cm à l'échelle mondiale au XXème siècle. Si les émissions de de gaz à effet de serre ne sont pas limitées, ce rythme pourrait être multiplié par 100 dans les siècles à venir. Le niveau de la mer atteindrait alors +1,10 m d'ici à la fin du siècle.
@@ -21,10 +21,15 @@ En Antartique, deux glaciers ont un rôle essentiel dans le maintien des autres 
 
 Il y a ici un risque de réaction en chaîne : le détachement des glaciers Thwaites et Pine Island peut entrainer le détachement d'une part importante des glaciers de l'Antarctique de l'Ouest. Si tous les glaciers de l'Ouest se détachent, le niveau de la mer risque de monter encore plus et encore plus vite.
 
-L'Académie Américaine des Sciences a ainsi montré[^pnas] une force accélération de la fonte des glaciers. Entre 1979 et 1990, elle était de 40 milliards de tonnes par an. Désormais elle atteint 252 milliards de tonnes par an.
+L'Académie Américaine des Sciences a ainsi montré[^pnas] une forte accélération de la fonte des glaciers. Entre 1979 et 1990, elle était de 40 milliards de tonnes par an. Désormais elle atteint 252 milliards de tonnes par an.
 
-De plus il s'agit d'une boucle de rétro action positive, c'est-à-dire un phénomène auto entretenu, dont les conséquences renforcent les causes. En effet lors de la fonte des glaces, l'eau douce froide reste en surface, alors que l'eau plus salée et plus chaude se trouve en profondeur. Celle-ci "scie" les bases des glaciers, augmentant ainsi la fonte et le risque de détachement. La fonte des glaces est ainsi non linéaire mais exponentielle. Le niveau des mer pourrait donc être de +15 m d'ici à l'année 2500.[^nature]
+De plus il s'agit d'une boucle de rétroaction positive, c'est-à-dire un phénomène auto entretenu, dont les conséquences renforcent les causes. En effet lors de la fonte des glaces, l'eau douce froide reste en surface, alors que l'eau plus salée et plus chaude se trouve en profondeur. Celle-ci fait fondre les bases des glaciers, augmentant ainsi la fonte et le risque de détachement.[^atmos] La fonte des glaces est ainsi non linéaire mais exponentielle. Le niveau des mer pourrait donc être de +15 m d'ici à l'année 2500.[^nature]
 
+Enfin, des chercheurs australiens étudient le Pliocène, période située entre 5 et 3 millions d'années en arrière. Au Pliocène, l'atmosphère contient autant de CO2 qu'aujourd'hui, la température est 2 à 3°C supérieure à aujourd'hui et le niveau de la mer varie de +10 à +25 m par rapport à aujourd'hui.[^victoria]
+
+En poursuivant les émissions de CO2 au même rythme, le système Terre pourrait revenir aux conditions du Pliocène dans les décénies à venir, avec les mêmes conséquences sur les glaciers et les inlandsis[^inlandsis]. Le risque le plus important vient de l'Antarctique Est, qui pourrait être responsable d'une hausse du niveau de la mer de 10 m, alors que le Groenland et l'Antarctique Ouest ne seraient responsables d'une augmentation que de 5 m chacun. Dans ce cas, ce serait un milliard de personnes qui serait concernées par la montée des eaux.
+
+Le point de basculement est actuellement en train d'être franchi. En ce qui concerne la fonte des glace et la montée du niveau de la mer, il n'y a pas de retour en arrière possible. Sauf à stopper immédiatement les émissions de gaz à effet de serre d'origine anthropique, nous devons nous attendre à des bouleversements géographiques qui auront des impacts très importants sur les populations : migrations massives et instabilités politiques et sociales.
 
 ---
 
@@ -43,3 +48,9 @@ De plus il s'agit d'une boucle de rétro action positive, c'est-à-dire un phén
 [^pnas]: [Four decades of Antarctic Ice Sheet mass balance from 1979–2017](https://www.pnas.org/content/116/4/1095)
 
 [^nature]: [Contribution of Antarctica to past and future sea-level rise](https://www.nature.com/articles/nature17145)
+
+[^inlandsis]: [Wikipédia : inlandsis](https://fr.wikipedia.org/wiki/Inlandsis)
+
+[^atmos]: [Ice melt, sea level rise and superstorms: evidence from paleoclimate data, climate modeling, and modern observations that 2 °C global warming could be dangerous ](https://www.atmos-chem-phys.net/16/3761/2016/)
+
+[^victoria]: [New research on past sea levels reveals potential for widespread melting of Antarctica](https://www.gns.cri.nz/Home/News-and-Events/Media-Releases/melting-of-Antarctica)
