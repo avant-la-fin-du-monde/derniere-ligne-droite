@@ -20,7 +20,7 @@ Si le scénario "business-as-usual" est suivi, l'acidification des océans devra
 
 Les océans pourraient ainsi devenir plus acides qu'ils ne l'ont été pendant les 14 derniers millions d'années, d'après des chercheurs de l'université de Cardiff[^cardiff], lorsque la température moyenne du globe était de 3°C plus élevée.
 
-Il s'agit en plus d'une boucle de rétro action positive (phénomène dans lequel la conséquence du phénomène renforce sa cause, augmentant ainsi son ampleur) : plus les océans se réchauffent, moins ils ont de capacité à absorber du CO2.
+Il s'agit en plus d'une boucle de rétroaction positive (phénomène dans lequel la conséquence du phénomène renforce sa cause, augmentant ainsi son ampleur) : plus les océans se réchauffent, moins ils ont de capacité à absorber du CO2.
 
 Nature Geoscience[^nature-geoscience] a démontré l'effet corrosif d'un milieu plus acide sur les coquilles des ptéropodes (petits escargots de mer)[^ocean-climat]. Ils ont alors plus de difficultés à se déplacer et leur coquille, plus fragile, les protège moins des agressions extérieures.
 
