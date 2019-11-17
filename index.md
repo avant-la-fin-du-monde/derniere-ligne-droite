@@ -17,6 +17,8 @@ Sommaire :
 
 # Un effondrement en cours
 
+[Les feux de forêt](feux-de-foret)
+
 ## Le réchauffement et les perturbations climatiques
 
 [L'acidification des océans](acidification)
