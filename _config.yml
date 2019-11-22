@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Dernière ligne droite avant la fin du monde
-email: your-email@example.com
+title: Dernière ligne droite
+email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  "Y a la fin du monde qui nous guette et nous on fait la fête" Didier Super - On va tous crever
+  "Y a la fin du monde qui nous guette et nous on fait la fête" - Didier Super
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://dernierelignedroite.fr" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: dlignedroite
 
 # Build settings
 markdown: kramdown
