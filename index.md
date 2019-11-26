@@ -19,6 +19,8 @@ Sommaire :
 
 [Les feux de forêt](feux-de-foret)
 
+[La biodiversité](biodiversité)
+
 ## Le réchauffement et les perturbations climatiques
 
 [L'acidification des océans](acidification)
