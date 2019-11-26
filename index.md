@@ -19,7 +19,7 @@ Sommaire :
 
 [Les feux de forêt](feux-de-foret)
 
-[La biodiversité](biodiversité)
+[La biodiversité](biodiversite)
 
 ## Le réchauffement et les perturbations climatiques
 
