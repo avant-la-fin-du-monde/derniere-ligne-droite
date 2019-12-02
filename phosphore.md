@@ -22,7 +22,7 @@ Lorsque la production sera en déclin, les prix des engrais phosphatés sur le m
 
 Il faut également noter que le phosphore est utilisé en tant qu'additif alimentaire et acidifiant pour les sodas. La teneur croissante en phosphore de l'alimentation de la population états-unienne est d'ailleurs associé à une hausse de la mortalité[^ncbi].
 
-En outre, seul un quart du phosphate utilisé dans la fertilisation des sols n'est absobé par ceux-ci. Le reste est emporté vers les cours d'eau jusqu'aux réserves aquatiques et marines et provoquent des phénomènes de marées d'algues vertes. Les algues consomment tout l'oxygène disponible, rendant impossible la vie pour les autres espèces et créant ainsi des zones mortes.
+En outre, seul un quart du phosphate utilisé dans la fertilisation des sols n'est absorbé par ceux-ci. Le reste est emporté vers les cours d'eau jusqu'aux réserves aquatiques et marines et provoquent des phénomènes de marées d'algues vertes. Les algues consomment tout l'oxygène disponible, rendant impossible la vie pour les autres espèces et créant ainsi des zones mortes.
 
 Il peut donc y avoir deux effets "heureux" de la baisse de la production du phosphore :
 
