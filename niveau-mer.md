@@ -6,7 +6,7 @@ permalink: /niveau-mer/
 
 D'après le dernier rapport spécial du GIEC[^giec], le rythme actuel de montée des eaux est de 3,6 mm par an. Le niveau de la mer a augmenté d'environ 15 cm à l'échelle mondiale au XXème siècle. Si les émissions de de gaz à effet de serre ne sont pas limitées, ce rythme pourrait être multiplié par 100 dans les siècles à venir. Le niveau de la mer atteindrait alors +1,10 m d'ici à la fin du siècle.
 
-> Les glaciers et les calottes glaciaires des régions polaires et montagneuses perdent de la masse, ce qui contribue à l’accélération de l’élévation du niveau de la mer, ainsi qu’à l’expansion de l’océan qui se réchauffe.[^giec-presse]
+> Les glaciers et les calottes glaciaires des régions polaires et montagneuses perdent de la masse, ce qui contribue à l’accélération de l’élévation du niveau de la mer, ainsi qu’à l’expansion de l’océan qui se réchauffe[^giec-presse].
 
 La montée du niveau de la mer va provoquer des déplacements massifs de population. Certains pays y sont très exposés, en Asie (Chine, Bangladesh, Inde, Vietnam, Thaïlande, Philipines, Japon), mais également sur les autres continents. En France ce sont des villes comme Calais, Boulogne ou Dunkerque devront être évacuées.
 
@@ -23,9 +23,9 @@ Il y a ici un risque de réactions en chaîne : le détachement des glaciers Thw
 
 L'Académie Américaine des Sciences a ainsi montré[^pnas] une forte accélération de la fonte des glaciers. Entre 1979 et 1990, elle était de 40 milliards de tonnes par an. Désormais elle atteint 252 milliards de tonnes par an.
 
-De plus il s'agit d'une boucle de rétroaction positive, c'est-à-dire un phénomène auto entretenu, dont les conséquences renforcent les causes. En effet lors de la fonte des glaces, l'eau douce froide reste en surface, alors que l'eau plus salée et plus chaude se trouve en profondeur. Celle-ci fait fondre les bases des glaciers, augmentant ainsi la fonte et le risque de détachement.[^atmos] La fonte des glaces est ainsi non linéaire mais exponentielle. Le niveau des mer pourrait donc être de +15 m d'ici à l'année 2500.[^nature]
+De plus il s'agit d'une boucle de rétroaction positive, c'est-à-dire un phénomène auto entretenu, dont les conséquences renforcent les causes. En effet lors de la fonte des glaces, l'eau douce froide reste en surface, alors que l'eau plus salée et plus chaude se trouve en profondeur. Celle-ci fait fondre les bases des glaciers, augmentant ainsi la fonte et le risque de détachement[^atmos]. La fonte des glaces est ainsi non linéaire mais exponentielle. Le niveau des mer pourrait donc être de +15 m d'ici à l'année 2500[^nature].
 
-Enfin, des chercheurs australiens étudient le Pliocène, période située entre 5 et 3 millions d'années en arrière. Au Pliocène, l'atmosphère contient autant de CO2 qu'aujourd'hui, la température est 2 à 3°C supérieure à aujourd'hui et le niveau de la mer varie de +10 à +25 m par rapport à aujourd'hui.[^victoria]
+Enfin, des chercheurs australiens étudient le Pliocène, période située entre 5 et 3 millions d'années en arrière. Au Pliocène, l'atmosphère contient autant de CO2 qu'aujourd'hui, la température est 2 à 3°C supérieure à aujourd'hui et le niveau de la mer varie de +10 à +25 m par rapport à aujourd'hui[^victoria].
 
 En poursuivant les émissions de CO2 au même rythme, le système Terre pourrait revenir aux conditions du Pliocène dans les décennies à venir, avec les mêmes conséquences sur les glaciers et les inlandsis[^inlandsis]. Le risque le plus important vient de l'Antarctique Est, qui pourrait être responsable d'une hausse du niveau de la mer de 10 m, alors que le Groenland et l'Antarctique Ouest ne seraient responsables d'une augmentation que de 5 m chacun. Dans ce cas, ce serait un milliard de personnes qui seraient concernées par la montée des eaux.
 

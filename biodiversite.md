@@ -24,7 +24,7 @@ L'être humain ne peut évidemment pas vivre sans le reste du règne naturel, qu
 
 Autrement dit, toutes les activités humaines "extrêmes" ont un effet destructeur sur la biodiversité : agriculture intensive, dégradation des sols, usage des pesticides, urbanisation et artificialisation des sols, surpêche, perte des habitats naturels, acidification des océans...
 
-> A ce jour, seulement un quart des terres ont échappé aux activités humaines. Un chiffre qui devrait chuter à seulement 10% en 2050 si l’on ne change rien.[^wwf]
+> A ce jour, seulement un quart des terres ont échappé aux activités humaines. Un chiffre qui devrait chuter à seulement 10% en 2050 si l’on ne change rien[^wwf].
 
 Avec l'effondrement de la biodiversité, c'est toute la pyramide du vivant qui s'effondre. Quels que soient son intelligence et son niveau technique, il y a peu de chances pour que l'être humain soit en mesure de s'adapter aux changements drastiques qu'il impose à son environnement, dans une période de temps aussi courte.
 
