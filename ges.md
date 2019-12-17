@@ -6,23 +6,23 @@ permalink: /ges/
 
 ## L'effet de serre
 
-L'effet de serre est un processus atmosphérique naturel par lequel une partie du rayonnement émis par la Terre est réemis vers le sol. Cet effet contribue à augmenter la température moyenne terrestre, ce qui permet d'avoir une température moyenne de l'ordre de 15°C au lieu  -19°C sans[^meteo-france].
+L'effet de serre est un processus atmosphérique naturel par lequel une partie du rayonnement émis par la Terre est réemis vers le sol. Cet effet contribue à augmenter la température moyenne terrestre, ce qui permet d'avoir une température moyenne de l'ordre de 15°C au lieu -19°C sans[^meteo-france].
 
 Le mécanisme global est illustré ci-dessous[^effet-wiki].
 
 ![Bilan énergétique de la Terre et rôle de l'effet de serre.](/assets/Effet_de_Serre.png)
 *Bilan énergétique de la Terre et rôle de l'effet de serre. Created by Robert A. Rohde and translated in French by nico@nc — Image:Greenhouse_Effect.png, translated in French. [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)*
 
-1. la terre reçoit le rayonnement solaire, c'est à dire l'ensemble des ondes électromagnétiques émises par le Soleil.
-2. Environ 30% de ce rayonnement est directement réfléchi vers l'espace - les nuagles et les calottes glaciaires, de couleur claire, amplifient cette réflexion
+1. La terre reçoit le rayonnement solaire, c'est-à-dire l'ensemble des ondes électromagnétiques émises par le Soleil
+2. Environ 30% de ce rayonnement est directement réfléchi vers l'espace - les nuages et les calottes glaciaires, de couleur claire, amplifient cette réflexion
 3. 20% du rayonnement est absorbé par l'atmosphère et 50% par la surface terrestre, ce qui augmente sa température
-4. Comme tout corps chaud, la surface terrestre émet alors elle-même des rayonnements dans l'infrarouge lointain, vers l'espace.
-5. La majeure partie de ce rayonnement est absorbé par les gaz à effet de serre présents dans l'atmosphère, ce qui contribue à la réchauffer
+4. Comme tout corps chaud, la surface terrestre émet alors elle-même des rayonnements dans l'infrarouge lointain, vers l'espace
+5. La majeure partie de ce rayonnement est absorbée par les gaz à effet de serre présents dans l'atmosphère, ce qui contribue à la réchauffer
 6. Cette chaleur supplémentaire est alors de nouveau diffusée sous forme de rayonnement dans toutes les directions, une partie venant donc limiter le refroidissement de la surface
 
 ## Les gaz à effet de serre
 
-Un _gaz à effet de serre_ est un gaz qui contribue à cet effet. Les principaux gaz sont[^ges-wiki]:
+Un _gaz à effet de serre_ est un gaz qui contribue à cet effet réchauffant. Les principaux gaz sont[^ges-wiki]:
 
 * la vapeur d'eau H20
 * le CO2, aussi appelé gaz carbonique ou dioxyde de carbone
@@ -42,7 +42,7 @@ Le dioxyde de carbone (CO2), qui représente 77% des émissions de gaz à effet 
 
 Sur ce dernier million d'années, la concentration en CO2 a varié entre 190 ppm[^ppm] (ères glaciaires) et 260 ppm (périodes chaudes)[^climate-central]. Il y a donc des variations naturelles de concentration de gaz à effet de serre dans l'atmosphère, à l'échelle des temps géologiques. Depuis le début de l'ère industrielle, la concentration en CO2 de l'atmosphère a évoluée de 280 ppm en 1850, à 408 ppm en 2018. C'est donc un quasi doublement, sur une échelle de temps infiniment plus courte que les précédents connus.
 
-Environ la moitié du surplus des émissions est absorbée par l'atmosphère et l'autre moitié par des puits de carbone : les océans, les sols, la faune et la végétation. Or ces puits sont déjà largement saturés. Même dans le cadre d'un plan de création de nouveaux puits à grande échelle, ceux-ci re-deviendraient émetteurs en 2050[^hadley]. Si on prend l'exemple de la création de forêts artificielles, celles-ci capteraient du carbone tant qu'elles sont en croissance et deviendraient neutres voire émettrices à leur matûrité, en 2050.
+Environ la moitié du surplus des émissions est absorbée par l'atmosphère et l'autre moitié par des puits de carbone : les océans, les sols, la faune et la végétation. Or ces puits sont déjà largement saturés. Même dans le cadre d'un plan de création de nouveaux puits à grande échelle, ceux-ci re-deviendraient émetteurs en 2050[^hadley]. Si on prend l'exemple de la création de forêts artificielles, celles-ci capteraient du carbone tant qu'elles sont en croissance et deviendraient neutres voire émettrices à leur matûrité, quelques décennies plus tard.
 
 Le méthane (CH4), est le résultat de la dégradation sans oxygène de matière organique par des bactéries. Il a un potentiel de réchauffement 25 fois plus puissant que le CO2[^futura], mais ne reste dans l'atmosphère que 12 ans (contre plus d'un siècle pour le CO2).
 
@@ -87,15 +87,15 @@ Les émissions de gaz à effet de serre s'accroissent. En ce qui concerne le CO2
 
 Après un emballement dans la décennie 2000, le rythme d'augmentation des émissions diminue sur la dernière décennie. Cependant, c'est une tendance qui reste fragile, l'augmentation ayant par exemple dépassée 2% entre 2017 et 2018[^gcp-atlas].
 
-Les autres gaz à effet de serre suivent la même tendance. Tous gaz confondus, le record d'émission s'établit en 2018 à 55,3 gigatonnes équivalent C02, soit une concentration atmosphérique de 470 ppm équivalent CO2[^un].
+Les autres gaz à effet de serre suivent la même tendance. Tous gaz confondus, le record d'émission s'établit en 2018 à 55,3 gigatonnes équivalent CO2, soit une concentration atmosphérique de 470 ppm équivalent CO2[^un].
 
 ## Impacts sur le climat
 
-Le GIEC[^ipcc] est un organisme international de l'ONU dont la mission est de réaliser une synthèse des travaux scientifiques concernant le réchauffement climatique. L'existence d'un réchauffement climatique, et son origine font l'objet d'un consensus scientifique, exprimé le GIEC. Le réchauffement climatique est causé par émissions de gaz à effet de serre d'origine humaine dans l'atmosphère.
+Le GIEC[^ipcc] est un organisme international de l'ONU dont la mission est de réaliser une synthèse des travaux scientifiques concernant le réchauffement climatique. L'existence d'un réchauffement climatique, et son origine font l'objet d'un consensus scientifique, exprimé par le GIEC. Le réchauffement climatique est causé par émissions de gaz à effet de serre d'origine humaine dans l'atmosphère.
 
 Il est probable que nous ayons déjà dépassé +1,1°C de température planétaire moyenne depuis l'ère préindustrielle. Du fait de la grande durée de vie du CO2 dans l'atmosphère, il est par ailleurs probable nous ayons déjà émis dans l'atmosphère suffisamment de gaz à effet de serre pour atteindre +1.5°C (autour de 2030)[^giec15].
 
-L'intensité à terme du réchauffement planétaire pourrait, selon les travaux actuels, atteindre une intensité de +2 à +4°C de température planétaire moyenne au cours du siècle. Parmie les conséquences probables que cela pourrait entraîner, on peut lister:
+L'intensité à terme du réchauffement planétaire pourrait, selon les travaux actuels, atteindre une intensité de +2 à +4°C de température planétaire moyenne au cours du siècle. Parmi les conséquences probables que cela pourrait entraîner, on peut lister :
 
 * augmentation de la fréquence et de l'intensité des phénomènes climatiques extrêmes (canicules, ouragans, ...)
 * augmentation des épisodes de sécheresses et du stress hydrique
