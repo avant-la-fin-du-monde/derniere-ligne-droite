@@ -35,9 +35,6 @@ Si la vapeur d'eau est à l'origine de 72% de l'effet de serre total, le CO2 est
 
 Du fait de propriétés (radiatives notamment) différentes et de durée de vie dans l'atmosphère variées, les gaz ont un impact différent sur l'effet de serre. C'est pour cela que pour certains (le méthane par exemple), même de petites quantités ont un impact fort sur l'effet de serre.
 
-<!-- TODO: pourquoi ça vient à ce moment ? -->
-<!-- > Les concentrations des trois gaz majeurs [CO2, CH4, N2O] "ont crû de façon notable du fait des activités humaines depuis 1750" (GIEC, 02/2007) -->
-
 Le dioxyde de carbone (CO2), qui représente 77% des émissions de gaz à effet de serre liées à l'activité humaine, résulte principalement de la combustion des énergies fossiles (charbon, pétrole et gaz), mais aussi de la déforestation, de l'agriculture intensive et de certaines industries (comme celle du ciment).
 
 Sur ce dernier million d'années, la concentration en CO2 a varié entre 190 ppm[^ppm] (ères glaciaires) et 260 ppm (périodes chaudes)[^climate-central]. Il y a donc des variations naturelles de concentration de gaz à effet de serre dans l'atmosphère, à l'échelle des temps géologiques. Depuis le début de l'ère industrielle, la concentration en CO2 de l'atmosphère a évoluée de 280 ppm en 1850, à 408 ppm en 2018. C'est donc un quasi doublement, sur une échelle de temps infiniment plus courte que les précédents connus.
@@ -50,17 +47,6 @@ Le méthane (CH4), est le résultat de la dégradation sans oxygène de matière
 
 Enfin le protoxyde d'azote (N20) est produit par des micro organismes présents dans les sols et les fumiers, essentiellement en milieu agricole et en particulier du fait de l'épandage d'engrais azotés (minéraux et organiques).
 
-<!-- ## TODO: je ne parlerai pas du PRG perso, c'est un indicateur mine de rien difficile à calculer et à manipuler. On a vite fait de raconter n'importe quoi avec
-Pour pouvoir comparer les contributions des différents gaz au réchauffement climatique, le Potentiel (ou Pouvoir) de Réchauffement Global (PRG) est utilisé[^prg-wiki]. Il est utilisé pour comparer l'influence de différents
-
-st une synthèse du pouvoir de réchauffement de tous les gaz à effet de serre présents dans l'atmosphère. Il est exprimé en équivalent CO2.
-
-Cet indicateur a significativement augmenté ces dernières décennies[^noaa] :
-
-* 385 ppm[^ppm] en 1980
-* 481 ppm en 2014
-* 485 ppm en 2015 -->
-
 ## Origine et évolution des émissions
 
 Les causes des émissions de gaz à effet de serre d'origine humaine sont nombreuses. En ce qui concerne le CO2, en 2010 les principaux émetteurs étaient[^giec] :
@@ -72,9 +58,6 @@ Les causes des émissions de gaz à effet de serre d'origine humaine sont nombre
 * transport : 14,1%
 
 Par ailleurs les pays du G20 sont responsables de 78% de toutes les émissions[^un].
-
-<!-- TODO: je suis hyper sceptique sur cette partie, la source est pas géniale, avec un "expert" du WWF cité ... Et comme ta phrase l'explique, ce n'est jamais qu'une évidence sur la structuration de la chaîne de valeur, mais assortie d'un jugement moral... la source laisse entendre que les entreprises extractrices ont plus de responsabilité que tout le  reste de la chaîne, ce qui est je trouve très contestable... Pas sûr que ça apporte quelque chose. -->
-<!-- > et 90 entreprises seulement sont responsables des deux tiers des émissions de CO2[^heede]. Il s'agit essentiellement de producteurs de combustibles fossiles et de cimentiers. C'est relativement inévitable considérant que ces entreprises sont à la base de presque toutes les activités économiques depuis un demi siècle. Elles s'intègrent dans une longue chaîne de valeur dont elles sont le premier maillon. -->
 
 Les émissions de gaz à effet de serre s'accroissent. En ce qui concerne le CO2, l'accroissement annuel sur les dernières décennies[^gcp-carbon-budget] a évolué comme suit:
 
@@ -95,7 +78,7 @@ Le GIEC[^ipcc] est un organisme international de l'ONU dont la mission est de r�
 
 Il est probable que nous ayons déjà dépassé +1,1°C de température planétaire moyenne depuis l'ère préindustrielle. Du fait de la grande durée de vie du CO2 dans l'atmosphère, il est par ailleurs probable nous ayons déjà émis dans l'atmosphère suffisamment de gaz à effet de serre pour atteindre +1.5°C (autour de 2030)[^giec15].
 
-L'intensité à terme du réchauffement planétaire pourrait, selon les travaux actuels, atteindre une intensité de +2 à +4°C de température planétaire moyenne au cours du siècle. Parmi les conséquences probables que cela pourrait entraîner, on peut lister :
+L'intensité à terme du réchauffement planétaire pourrait, selon les travaux actuels, atteindre une intensité de +2 à +4°C de température planétaire moyenne au cours du siècle. Parmis les conséquences probables, on peut lister:
 
 * augmentation de la fréquence et de l'intensité des phénomènes climatiques extrêmes (canicules, ouragans, ...)
 * augmentation des épisodes de sécheresses et du stress hydrique
