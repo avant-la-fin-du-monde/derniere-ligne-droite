@@ -5,32 +5,28 @@
 layout: home
 ---
 
-Nous y voilà.
+Le monde que nous, humains, partageons avec les autres vivants, traverse de grands bouleversements. Selon toute vraisemblance, ces bouleversements vont s'accroître, en amplitude, durée et nombre d'occurrences.
 
-Nous en sommes là de l'Histoire du Monde : soit nous changeons radicalement de mode de vie, soit nous rendons notre milieu impropre à la vie telle que nous la connaissons. En effet, ce n'est pas seulement l'Humanité qui affronte un risque d'extinction, mais une importante partie du règne du vivant.
+Nous souhaitons que chacun et chacune puisse les comprendre. C'est pourquoi nous rassemblons ici les données sur leurs causes et leurs conséquences, sous forme d'articles vulgarisés. Les données sont factuelles, chiffrées et scientifiquement sourcées.
 
-Notre objectif ici est simple, voir simpliste : comment expliquer l'effondrement en cours ? Où en sommes-nous ? Quelles sont les perspectives (sérieuses) pour l'avenir ?
+# Climat
 
-Nous souhaitons que quiconque puisse comprendre rapidement en quoi le problème est systémique et global. Nous faisons donc un effort de synthèse et de vulgarisation, en tâchant de rester factuel. Nos réflexions s'appuient sur des sources scientifiques, qui sont systématiquement précisées.
-
-Sommaire :
-
-# Un effondrement en cours
-
-[Les feux de forêt](feux-de-foret)
-
-[La biodiversité](biodiversite)
-
-## Le réchauffement et les perturbations climatiques
-
-[Les gaz à effet de serre](ges)
-
-[L'acidification des océans](acidification)
+[Les gaz à effet de serre et le réchauffement climatique](ges)
 
 [Le pergélisol](pergelisol)
 
 [La montée du niveau de la mer](niveau-mer)
 
-## Agriculture et rendements agricoles
+# Biodiversité
+
+[L'effondrement de la biodiversité](biodiversite)
+
+[L'acidification des océans](acidification)
+
+# Ressources
 
 [La production de phosphore](phosphore)
+
+# Pollution
+
+[Les feux de forêt](feux-de-foret)
