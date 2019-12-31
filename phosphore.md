@@ -6,9 +6,9 @@ permalink: /phosphore/
 
 # Le phosphore et les roches phosphatées
 
-Avec le potassium et l'azote, le phosphore est au coeur du métabolisme de la plante. Il permet à ses racines de puiser dans le sol les éléments nutritifs dont elle a besoin, accélère sa croissance, permet le bourgeonnement et la floraison et surtout, la photosynthèse. C'est donc un élément capital pour l'agriculture, qui enrichit les sols en phosphore grâce aux engrais et fertilisants.
+Avec le potassium et l'azote, le phosphore est au coeur du métabolisme de la plante. Il permet à ses racines de puiser dans le sol les éléments nutritifs dont elle a besoin, accélère sa croissance, permet le bourgeonnement, la floraison et, surtout, la photosynthèse. C'est donc un élément capital pour l'agriculture, qui enrichit les sols en phosphore grâce aux engrais et fertilisants.
 
-L'industrie offre une large gamme d'engrais phosphatés aux agriculteurs, produits à partir des roches phosphatées, dont quatre pays détiennent les plus importantes réserves (Maroc, Chine, Russie et États-Unis). Car en effet il ne s'agit pas de ressources naturelles mais bien de réserves, qui se sont constituées au cours d'époques géologiques différentes.
+L'industrie offre une large gamme d'engrais phosphatés aux agriculteurs, produits à partir des roches phosphatées, dont quatre pays détiennent les plus importantes réserves (Maroc, Chine, Russie et États-Unis). Car en effet il ne s'agit pas de ressources renouvelables mais bien de stocks finis, qui se sont constituées au cours d'époques géologiques différentes.
 
 ![Gisements économiques et potentiellement économiques de phosphates du monde](/assets/phosphore_world_map.gif)
 *Gisements économiques et potentiellement économiques de phosphates du monde[^fao]*
