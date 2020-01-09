@@ -4,9 +4,16 @@ title: La production de phosphore
 permalink: /phosphore/
 ---
 
-Avec le potassium et l'azote, le phosphore est au coeur du métabolisme de la plante. Il permet à ses racines de puiser dans le sol les éléments nutritifs dont elle a besoin, accélère sa croissance, permet le bourgeonnement et la floraison et surtout, la photosynthèse. C'est donc un élément capital pour l'agriculture, qui enrichit les sols en phosphore grâce aux engrais et fertilisants.
+# Le phosphore et les roches phosphatées
 
-L'industrie offre une large gamme d'engrais phosphatés aux agriculteurs, produits à partir des roches phosphatées, dont quatre pays détiennent les plus importantes réserves (Maroc, Chine, Russie et États-Unis). Car en effet il ne s'agit pas de ressources naturelles mais bien de réserves, qui se sont constituées au cours d'époques géologiques différentes.
+Avec le potassium et l'azote, le phosphore est au coeur du métabolisme de la plante. Il permet à ses racines de puiser dans le sol les éléments nutritifs dont elle a besoin, accélère sa croissance, permet le bourgeonnement, la floraison et, surtout, la photosynthèse. C'est donc un élément capital pour l'agriculture, qui enrichit les sols en phosphore grâce aux engrais et fertilisants.
+
+L'industrie offre une large gamme d'engrais phosphatés aux agriculteurs, produits à partir des roches phosphatées, dont quatre pays détiennent les plus importantes réserves (Maroc, Chine, Russie et États-Unis). Car en effet il ne s'agit pas de ressources renouvelables mais bien de stocks finis, qui se sont constituées au cours d'époques géologiques différentes.
+
+![Gisements économiques et potentiellement économiques de phosphates du monde](/assets/phosphore_world_map.gif)
+*Gisements économiques et potentiellement économiques de phosphates du monde[^fao]*
+
+# Production
 
 D'après une étude de l'Organisation des Nations Unies pour l'alimentation (FAO)[^fao], les réserves sont difficiles à évaluer, de même que la production et la consommation mondiales. La production serait de l'ordre de 270 millions de tonnes par an, d'après les statistiques du site Planetoscope.com[^planetoscope].
 
@@ -17,6 +24,8 @@ Les dates et les prévisions peuvent être discutées. En revanche la courbe de 
 * la production part de zéro
 * la production passe par un maximum qui ne sera jamais dépassé
 * passé le maximum, la production décline jusqu'à atteindre zéro
+
+# Conséquences de la déplétion
 
 Lorsque la production sera en déclin, les prix des engrais phosphatés sur le marché vont s'accroître très significativement (d'un facteur 5 à 10 dans les 20 à 30 ans[^cordell]), mettant en danger la sécurité alimentaire d'abord des régions les plus pauvres puis celle des régions les plus riches. Concrètement : moins d'engrais phosphatés implique moins de production agricole implique des risques alimentaires, donc des instabilités sociales, politiques puis militaires.
 
